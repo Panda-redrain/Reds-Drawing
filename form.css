@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oi&display=swap');
+
+form{
+	margin: auto;
+	width: 400px;
+	padding: 3em;
+	border: 5px solid black;
+	border-radius: 15px;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+label{
+	display: inline-block;
+	width: 300px;
+	text-align: center;
+}
+

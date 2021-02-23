@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oi&display=swap');
+
+#bas{
+	height: 15%;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Anton', sans-serif;
+	background:linear-gradient(#FF9C6B, #f44336);
+	border: solid black;
+	margin-top: 10px;
+
+}
+
+
+i{
+	font-size: 75px;
+	padding: 15px;
+}
+
+i:hover{
+	border:white solid;
+}
+
+li{
+	display: inline;
+}
+
+#txt{
+	font-size: 40px;
+}
+
+.imgft{
+	height: 150px;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oi&display=swap');
+
+#liste-cliquable{
+	display: flex;
+	justify-content: space-around;
+	border: solid black;
+	height: 60px;
+	padding: 5px;
+	background:linear-gradient(#f44336, #FF9C6B );
+}
+
+.boutton{
+	border: solid black;
+	width: 200px;
+	font-family: 'Anton', sans-serif;
+	font-size: 15px;
+	text-align: center;
+	background: white;
+	cursor: pointer;
+	border-radius: 15px;
+}
+
+.boutton:hover {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
